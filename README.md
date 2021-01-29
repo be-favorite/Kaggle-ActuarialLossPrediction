@@ -2,12 +2,10 @@
 
 * Kaggle 보험 손실 예측 대회: https://www.kaggle.com/c/actuarial-loss-estimation
   + 해당 대회에서 제공하는 자료에 대한 저작관은 Kaggle에 있으므로, 본 Repo에서 제공하는 .rmd 파일의 재현을 원하는 분은 대회 참가신청을 하고 Kaggle에서 직접 자료를 내려받아주세요.
-* 분석 보고서: 
+* 분석 보고서: Still in progress :sweat:
 
 ## Introduction
-Kaggle 주관의 보험 손실 예측 대회 참가
-
-:exclamation: 주제 
+:exclamation: 주제
 
 synthetic data를 이용한 근로자들의 보상 보험금 청구액 예측
 
@@ -19,7 +17,9 @@ synthetic data를 이용한 근로자들의 보상 보험금 청구액 예측
 
 근로자 90,000명의 보상 보험에 대한 정보(사고 설명, 해당 근로자 관련 정보 등)를 담고있는 꽤 현실적인 synthetic data가 주어지며, 이를 통해 근로자들의 보상 보험금 청구액 예측 수행
 
-:runner: 대회 종료일: 2020-03-07
+:runner: 대회 종료일
+
+2020-03-07
 
 :computer: 분석에 이용한 도구 
 
