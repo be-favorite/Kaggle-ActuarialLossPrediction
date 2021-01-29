@@ -1,6 +1,26 @@
-# Kaggle-ActuarialLossPrediction
+# Kaggle - 보험 손실 예측 대회 참가
+
+## Introduction
 Kaggle 주관의 보험 손실 예측 대회 참가
 
+:exclamation: 주제 
+
+synthetic data를 이용한 근로자들의 보상 보험금 청구액 예측
+
+:question: 배경
+
+(특히 보험계리사들 중) 데이터 분석 인재 개발
+
+:star: 대회 설명
+
+근로자 90,000명의 보상 보험에 대한 정보(사고 설명, 해당 근로자 관련 정보 등)를 담고있는 꽤 현실적인 synthetic data가 주어지며, 이를 통해 근로자들의 보상 보험금 청구액 예측 수행
+
+:runner: 대회 종료일: 2020-03-07
+
+:computer: 분석에 이용한 도구 
+<a href="https://www.r-project.org/" target="_blank"> <img src="https://simpleicons.org/icons/r.svg" alt="r" width="40" height="40"/> </a> <a href="https://rstudio.com/" target="_blank"> <img src="https://simpleicons.org/icons/rstudio.svg" alt="rstudio" width="40" height="40"/> </a>
+
+<br>
 
 <div align=center>
  
