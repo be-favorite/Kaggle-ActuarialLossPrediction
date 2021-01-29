@@ -1,5 +1,9 @@
 # Kaggle - 보험 손실 예측 대회 참가
 
+* Kaggle 보험 손실 예측 대회: https://www.kaggle.com/c/actuarial-loss-estimation
+  + 해당 대회에서 제공하는 자료에 대한 저작관은 Kaggle에 있으므로, 본 Repo에서 제공하는 .rmd 파일의 재현을 원하는 분은 대회 참가신청을 하고 Kaggle에서 직접 자료를 내려받아주세요.
+* 분석 보고서: 
+
 ## Introduction
 Kaggle 주관의 보험 손실 예측 대회 참가
 
@@ -18,6 +22,7 @@ synthetic data를 이용한 근로자들의 보상 보험금 청구액 예측
 :runner: 대회 종료일: 2020-03-07
 
 :computer: 분석에 이용한 도구 
+
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://simpleicons.org/icons/r.svg" alt="r" width="40" height="40"/> </a> <a href="https://rstudio.com/" target="_blank"> <img src="https://simpleicons.org/icons/rstudio.svg" alt="rstudio" width="40" height="40"/> </a>
 
 <br>
