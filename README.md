@@ -2,7 +2,7 @@
 
 * Kaggle 보험 손실 예측 대회: https://www.kaggle.com/c/actuarial-loss-estimation
   + 해당 대회에서 제공하는 자료에 대한 저작권은 Kaggle에 있으므로, 본 Repo에서 제공하는 .rmd 파일의 재현을 원하는 분은 대회 참가신청을 하고 Kaggle에서 직접 자료를 내려받아주세요.
-* 분석 보고서: Still in progress :sweat:
+* 분석 보고서: https://be-favorite.github.io/Kaggle-ActuarialLossPrediction/Report.html (Still in progress :sweat:)
 
 ## Introduction
 :exclamation: 주제
